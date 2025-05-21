@@ -1,0 +1,4 @@
+.env
+stablecoin_monitor.log
+__pycache__/
+*.pyc
